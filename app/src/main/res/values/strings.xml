@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TYS Sketches</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_sign_up">Sign Up</string>
+    <string name="auth_log_out">Log Out</string>
+    <string name="auth_email">Email Address</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_full_name">Full Name</string>
+    <string name="auth_collector_account">Collector Account</string>
+</resources>

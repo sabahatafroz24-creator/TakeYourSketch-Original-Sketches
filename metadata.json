@@ -1,0 +1,6 @@
+{
+  "name": "TYS Sketches",
+  "description": "One-of-a-kind original pencil and ink sketches marketplace, artist studio catalog, flat-packed delivery, and AI sketch curator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
